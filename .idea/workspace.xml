@@ -22,7 +22,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="8" selection-start="787" selection-end="3636" vertical-scroll-proportion="0.0">
+            <state line="25" column="14" selection-start="787" selection-end="922" vertical-scroll-proportion="-14.384615">
               <folding />
             </state>
           </provider>
@@ -31,11 +31,15 @@
       <file leaf-file-name="index_single_player.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index_single_player.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="298" column="53" selection-start="10638" selection-end="10638" vertical-scroll-proportion="0.36842105">
+            <state line="29" column="75" selection-start="1014" selection-end="1014" vertical-scroll-proportion="-0.19036955">
               <folding>
                 <element signature="e#441#634#0" expanded="false" />
-                <element signature="e#1469#4393#0" expanded="false" />
-                <element signature="e#4427#9333#0" expanded="false" />
+                <element signature="e#1303#1668#0" expanded="false" />
+                <element signature="e#1702#4626#0" expanded="false" />
+                <element signature="e#2457#2625#0" expanded="false" />
+                <element signature="e#2675#2843#0" expanded="false" />
+                <element signature="e#9593#11723#0" expanded="false" />
+                <element signature="e#11749#13957#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -130,44 +134,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tic-tac-toe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tic-tac-toe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tic-tac-toe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tic-tac-toe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tic-tac-toe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tic-tac-toe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -176,12 +142,12 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Confirmation" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Confirmation" />
     <property name="last_opened_file_path" value="D:/xampp/htdocs/buhler_hybrid_app" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -389,6 +355,27 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="725" column="41" selection-start="86408" selection-end="86408" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="44" selection-start="2741" selection-end="2741" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="161" selection-start="1218" selection-end="1218" vertical-scroll-proportion="0.0">
@@ -437,16 +424,6 @@
         <state line="41" column="60" selection-start="2000" selection-end="2000" vertical-scroll-proportion="0.018763797" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../fresher bach 1/akash/2nd assignment/html/css/ss.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="91" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../fresher bach 1/akash/2nd assignment/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="65" selection-start="561" selection-end="561" vertical-scroll-proportion="0.27045456" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="56" column="44" selection-start="2741" selection-end="2741" vertical-scroll-proportion="0.0">
@@ -454,21 +431,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../fresher bach 1/Vikas/assignment 2/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="23" selection-start="1408" selection-end="1408" vertical-scroll-proportion="0.019318182" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="725" column="41" selection-start="86408" selection-end="86408" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="8" selection-start="787" selection-end="3636" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -480,13 +445,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="14" selection-start="787" selection-end="922" vertical-scroll-proportion="-14.384615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index_single_player.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="298" column="53" selection-start="10638" selection-end="10638" vertical-scroll-proportion="0.36842105">
+        <state line="29" column="75" selection-start="1014" selection-end="1014" vertical-scroll-proportion="-0.19036955">
           <folding>
             <element signature="e#441#634#0" expanded="false" />
-            <element signature="e#1469#4393#0" expanded="false" />
-            <element signature="e#4427#9333#0" expanded="false" />
+            <element signature="e#1303#1668#0" expanded="false" />
+            <element signature="e#1702#4626#0" expanded="false" />
+            <element signature="e#2457#2625#0" expanded="false" />
+            <element signature="e#2675#2843#0" expanded="false" />
+            <element signature="e#9593#11723#0" expanded="false" />
+            <element signature="e#11749#13957#0" expanded="false" />
           </folding>
         </state>
       </provider>
